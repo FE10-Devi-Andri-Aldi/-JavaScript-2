@@ -1,0 +1,23 @@
+{
+  "name": "javascript-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --collect-coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FE10-Devi-Andri-Aldi/-JavaScript-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FE10-Devi-Andri-Aldi/-JavaScript-2/issues"
+  },
+  "homepage": "https://github.com/FE10-Devi-Andri-Aldi/-JavaScript-2#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
